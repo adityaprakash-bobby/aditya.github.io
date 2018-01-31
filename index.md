@@ -1,11 +1,7 @@
-## Welcome to Github Pages
+## ADITYA PRAKASH
 
-You can use the editor on github to maintain and provide the content for your website.
+I am a sophomore at IIIT Bhubaneswar. 
 
-### Markdown 
+### What I do? 
 
-Markdown is a lightweight and easy-to-use syntax for styling.
-
-# Header 1
-## Header 2
-### Header 3
+I am currently pursuing my B.Tech in Computer Egineering.
