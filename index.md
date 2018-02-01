@@ -1,3 +1,6 @@
+<head><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"></head>
+
 ## ADITYA PRAKASH
 
 I am a sophomore at IIIT Bhubaneswar. 
