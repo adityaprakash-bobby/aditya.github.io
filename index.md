@@ -14,5 +14,5 @@ I am currently pursuing my B.Tech in Computer Egineering.
   Networking
   C++
   C
-  Pyhton
+  Python
   
