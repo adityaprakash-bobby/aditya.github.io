@@ -8,8 +8,8 @@ I am a sophomore at IIIT Bhubaneswar.
 I am currently pursuing my B.Tech in Computer Egineering. 
 
 ### Skills
-  Networking
-  C++
-  C
-  Python
+  * _Networking_
+  * _C++_
+  * _C_
+  * _Python_
   
