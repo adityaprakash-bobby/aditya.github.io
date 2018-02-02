@@ -15,7 +15,7 @@ I am currently pursuing my B.Tech in Computer Egineering.
 
 #### Profiles
  * [Github](https://github.com/adityaprakash-bobby)
- * [LinkedIn](www.linkedin.com/in/aditya-prakash-39608a140)
+ * [LinkedIn](https://www.linkedin.com/in/aditya-prakash-39608a140)
  * [Facebook](https://www.facebook.com/adiprakash0610)
  
   
