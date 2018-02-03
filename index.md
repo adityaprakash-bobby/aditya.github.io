@@ -14,8 +14,8 @@ I am currently pursuing my B.Tech in Computer Egineering.
   * _Python_
 
 ### Academics
-  * CGPA: 8.39
-  * Highest GP: 8.53
+  * _CGPA: 8.39
+  * Highest GP: 8.53_
 
 ### Experiences
   * Summer(2017) course on **_"Network Management"_** at IIT-KGP.
