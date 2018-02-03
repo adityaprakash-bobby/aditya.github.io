@@ -13,6 +13,13 @@ I am currently pursuing my B.Tech in Computer Egineering.
   * _C_
   * _Python_
 
+### Academics
+  * CGPA: 8.39
+  * Highest GP: 8.53
+
+### Experiences
+  * Summer(2017) course on **_"Network Management"_** at IIT-KGP.
+
 #### Profiles
  * [Github](https://github.com/adityaprakash-bobby)
  * [LinkedIn](https://www.linkedin.com/in/aditya-prakash-39608a140)
